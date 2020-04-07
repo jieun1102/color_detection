@@ -1,6 +1,6 @@
 # color_detection
 
-In this color detection Python project, we are going to build an application through which you can automatically get the name of the color by clicking on the image.
+This model is coded in Python which is used to identify the color of the image and its RGB value by clicking on the image.
 
 
 The project folder contains 3 files:
