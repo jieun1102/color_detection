@@ -12,6 +12,6 @@ The project folder contains 3 files:
 
 ## SCREENSHOTS
 
-![](screenshots/c1.png)
+![](images/c1.png)
 
-![](screenshots/c2.png)
+![](images/c2.png)
